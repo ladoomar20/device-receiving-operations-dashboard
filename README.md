@@ -1,22 +1,21 @@
-Device Receiving Operations Dashboard
-Power BI dashboard analyzing device receiving, processing, and shipping operations in a logistics workflow.
-Project Overview
-This project analyzes device lifecycle operations within a warehouse environment. Devices are received at a processing facility and move through multiple operational stages before being shipped to clients.
-The dashboard visualizes operational activity across the device pipeline, helping highlight processing volumes, device distribution, and shipment trends.
-Operational Workflow
-Devices move through the following processing stages:
-Receiving → Triage → QA → Kitting → Inventory / Liquidation / Exceptions → Shipping
-This workflow reflects common device refurbishment and logistics operations.
-Dashboard Insights
-The dashboard highlights several operational metrics, including:
-Total devices received and shipped
-Distribution of devices across processing stages
-Device intake trends over time
-Device type distribution within incoming inventory
-Shipping activity by carrier
-These metrics help visualize operational throughput and identify potential bottlenecks within the device processing pipeline.
-Tools Used
-Power BI
-Microsoft Excel
-Data Visualization
-Operations Analytics
+# Device Receiving Operations Dashboard (Power BI)
+
+This project analyzes device receiving and processing operations using an interactive Power BI dashboard.
+
+The dataset simulates a logistics workflow where devices are received at a facility, processed through operational stages such as triage, QA, kitting, inventory, liquidation, and exceptions, and ultimately shipped to clients. The dashboard visualizes device movement through the processing pipeline and highlights key operational metrics.
+
+## Key Insights
+- Total devices received and shipped
+- Device processing pipeline across operational stages
+- Device intake trends over time
+- Distribution of device types within incoming inventory
+- Shipping activity by carrier
+
+## Tools Used
+Power BI  
+Excel  
+Data Visualization  
+Operations Analytics  
+
+## Dataset
+The dataset represents a simulated device processing environment where each device moves through different operational stages before shipment. Tables include information on receiving activity, processing stages, and shipping operations.
